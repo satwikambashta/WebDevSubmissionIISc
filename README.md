@@ -3,6 +3,8 @@
 This application demonstrates face detection using OpenCV in a Flask backend and a Vite React frontend.
 Demonstration videos are available in the parent directory.
 
+Docker Hub link: https://hub.docker.com/repository/docker/satwiksaurav/flask-face-detection/general
+
 ## RUNNING USING DOCKER
 in base directory iisctask
 `docker-compose build`

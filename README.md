@@ -1,6 +1,7 @@
 # Face Detection App
 
 This application demonstrates face detection using OpenCV in a Flask backend and a Vite React frontend.
+Demonstration videos are available in the parent directory.
 
 ## RUNNING USING DOCKER
 in base directory iisctask

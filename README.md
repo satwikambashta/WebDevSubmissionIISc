@@ -2,6 +2,11 @@
 
 This application demonstrates face detection using OpenCV in a Flask backend and a Vite React frontend.
 
+## RUNNING USING DOCKER
+in base directory iisctask
+`docker-compose build`
+`docker-compose up`
+
 ## Backend Setup
 
 Navigate to the `backend` folder and install the required dependencies:

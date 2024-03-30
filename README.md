@@ -5,6 +5,9 @@ Demonstration videos are available in the parent directory.
 
 Docker Hub link: https://hub.docker.com/repository/docker/satwiksaurav/flask-face-detection/general
 
+Demo with Dev Server:
+[![Running Using Dev Server](http://img.youtube.com/vi/sM3yKsrbCdc/0.jpg)](https://www.youtube.com/watch?v=sM3yKsrbCdc "Project Demo")
+
 ## RUNNING USING DOCKER
 in base directory iisctask
 `docker-compose build`
